@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "task2"]
+	url = https://github.com/computiq-training/Digitalize_backned_Task_2.git
+	fetch = +refs/heads/*:refs/remotes/task2/*
